@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "85d2df18d1ae7816",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e14087636078d39",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "scala/misc/implicits/implicits.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01d106ae107f080b",
+    "type": "split",
+    "children": [
+      {
+        "id": "46595674da7381ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ea72915650748d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "78a8671a48aa0a67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 637
+  },
+  "right": {
+    "id": "a9f086c4ebd7c9ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "10927c95778483f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddfcbbe6366aa603",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "scala/misc/implicits/implicits.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7e14087636078d39",
+  "lastOpenFiles": [
+    "scala/misc/implicits/implicits.md",
+    "scala/misc/implicits/common/Orphan instances.md",
+    "scala/misc/implicits/common/givens.md",
+    "README.md"
+  ]
+}
