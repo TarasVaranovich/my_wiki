@@ -1,0 +1,8 @@
+Why the specialized services are better than just  containerized (databases as example, containerized Spark and Spark in
+EMR)...
+
+Glue and EMR:
+Glue is suited to simpler data ETL and integration workflows, whereas EMR is comprehensive data operations service platform.
+As a Glue is serverless and EMR is a managed services group EMR is cheaper.
+
+Presto and Athena difference

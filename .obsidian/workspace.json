@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "architecture/Materialized_data_view/04 Costs and issues.md",
+                "file": "cloud/aws/01 Athena.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "architecture/Materialized_data_view/04 Costs and issues.md",
+                "file": "cloud/aws/01 Athena.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7e14087636078d39",
+  "active": "4ea72915650748d6",
   "lastOpenFiles": [
-    "architecture/Materialized_data_view/03 Implementation and explanation.md",
-    "architecture/Materialized_data_view/02 Expected benefits.md",
-    "architecture/Materialized_data_view/01 Premises to use.md",
-    "architecture/CQRS_ES/References.md",
-    "architecture/CQRS_ES/ES/04 Costs and issues.md",
-    "architecture/CQRS_ES/ES/03 Implementation and explanation.md",
-    "architecture/CQRS_ES/ES/02 Expected benefits.md",
-    "architecture/CQRS_ES/ES/01 Premises to use.md",
-    "architecture/CQRS_ES/CQRS/07 Costs and issues.md",
-    "architecture/CQRS_ES/CQRS/06 Main terms explanation.md"
+    "cloud/aws/07 Airflow.md",
+    "cloud/aws/01 Athena.md",
+    "data_engineering/EDW.md",
+    "architecture/CQRS_ES/CQRS/05 Implementation and explanation.md",
+    "architecture/CQRS_ES/CQRS/04 Expected benefits.md",
+    "architecture/CQRS_ES/CQRS/03 Premises to use.md",
+    "architecture/CQRS_ES/CQRS/02 Problems solved.md",
+    "architecture/CQRS_ES/CQRS/01 General information and description.md",
+    "architecture/Materialized_data_view/04 Costs and issues.md",
+    "architecture/Materialized_data_view/03 Implementation and explanation.md"
   ]
 }
